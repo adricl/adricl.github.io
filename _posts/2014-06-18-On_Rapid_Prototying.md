@@ -1,10 +1,14 @@
 ---
-layout: post
 title: " On Rapid Prototyping Quadcopters"
-description: "On Rapid Prototyping"
-tags: [Quadcopters, CCHS, Hackerspace, hobbies, building quadcopters]
-comments: true
-share: true
+categories:
+  - Blog
+description: "On Rapid Prototyping"  
+tags: 
+  - Quadcopters 
+  - CCHS 
+  - Hackerspace 
+  - hobbies 
+  - building quadcopters
 ---
 <figure>
 	<a href="{{ site.url }}/assets/post_images/Copter_Fail.jpg"><img src="{{ site.url }}/assets/post_images/Copter_Fail.jpg"></a>

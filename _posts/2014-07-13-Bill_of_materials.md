@@ -1,10 +1,14 @@
 ---
-layout: post
 title: "Bill of Materials"
 description: "Bill of Materials"
-tags: [Quadcopters, CCHS, Hackerspace, hobbies, building quadcopters]
-comments: true
-share: true
+categories:
+  - Blog
+tags: 
+  - Quadcopters
+  - CCHS
+  - Hackerspace 
+  - hobbies 
+  - building quadcopters
 ---
 <figure>
 	<a href="{{ site.url }}/assets/post_images/DSC_0039_done.JPG"><img src="{{ site.url }}/assets/post_images/DSC_0039_done.JPG"></a>
