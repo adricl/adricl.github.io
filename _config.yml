@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "adric"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/avatar.jpg"
   bio    : "A metaphysician fighting rampant existentialism"
   links:
     - label: "Twitter"
